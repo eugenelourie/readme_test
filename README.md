@@ -12,6 +12,8 @@ $ cd mts-teta-first-task
 ### [Датасет](https://www.kaggle.com/mrdaniilak/russia-real-estate-20182021)
 
 [Постановка задачи]()
+
 [Валидация данных и EDA]()
+
 [Оценка экономического эффекта]()
 
