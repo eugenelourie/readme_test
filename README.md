@@ -18,9 +18,9 @@ $ cd mts-teta-first-task
 Валидация данных и EDA: [EDA.ipynb](https://github.com/VladimirBorisevich/mts-teta-first-task/blob/main/EDA.ipynb)
 
 Дополнительная визуализация:
-1. real_estate.html: результат pandas_profiling датасета
-2. viz1.png - анализ распределений некоторых признаков
-3. viz2.png - анализ средних цен по некоторым регионам
+1. real_estate.html -- результат pandas_profiling датасета
+2. viz1.png -- анализ распределений некоторых признаков
+3. viz2.png -- анализ средних цен по некоторым регионам
 
 Бейзлайн: [baseline.ipynb](https://github.com/VladimirBorisevich/mts-teta-first-task/blob/main/baseline.ipynb)
 
